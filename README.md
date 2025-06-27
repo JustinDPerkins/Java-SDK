@@ -10,7 +10,7 @@ sudo yum install -y java-17-amazon-corretto-devel
 sudo yum install -y maven
 ```
 
-### 1. Downlaod the Trend SDK Jar from Maven Central, we will need to add this to local maven
+### 1. Download the Trend SDK Jar from Maven Central, we will need to add this to local maven
 ```
 cd ~
 wget https://repo1.maven.org/maven2/com/trend/file-security-java-sdk/1.5.0/file-security-java-sdk-1.5.0.jar
